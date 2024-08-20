@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Haxh1/Haxh1/blob/output/github-user-contribution.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <br clear="both">
 
