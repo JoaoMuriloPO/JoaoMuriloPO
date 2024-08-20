@@ -1,5 +1,5 @@
 ![snake gif](https://github.com/Haxh1/Haxh1/blob/output/github-user-contribution.svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3499&pause=1000&color=22F735&width=435&lines=Hello+World!!;My+name+is+joao+murilo;I'm+20+years+old;I+am+from+Brazil)](https://git.io/typing-svg)
+
 <br clear="both">
 
 
