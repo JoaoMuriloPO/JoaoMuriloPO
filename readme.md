@@ -2,7 +2,6 @@
 <br clear="both">
 
 
-
 ###
 
 <h2 align="left">🐱‍👤Sou uma dev iniciante focado em aprender. Este repositório é um espaço onde estou praticando e aprimorando minhas habilidades na programação.<br><br>✨ O Que Você Vai Encontrar Aqui:<br><br>╔Projetos de Aprendizado<br>╚Projetos desenvolvidos durante meu processo de aprendizado em HTML, CSS e JavaScript. <br>╔Código JavaScript<br>╚Scripts que adicionam funcionalidades e interatividade aos meus projetos web. <br>╔Layouts e Design<br>╚Exemplos de layouts e estilos CSS aplicados em projetos diversos.<br>╔Progresso Contínuo<br>╚Melhorias e atualizações no código à medida que vou absorvendo novos conhecimentos e práticas.<br><br>✨ Objetivos:<br><br>Aprender e aplicar novos conceitos de front-end. Melhorar a qualidade do código e a organização dos projetos. <br>Compartilhar o progresso e receber feedback construtivo.<br><br>🌱 Sinta-se à vontade para explorar, comentar e contribuir. Estou sempre aberta a sugestões e dicas para melhorar!</h2>
@@ -27,9 +26,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
 </div>
 
 ###
@@ -39,11 +38,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
   <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="50" alt="nodejs logo"  />
   <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="60" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="angularjs logo"  />
 </div>
 
 ###
@@ -54,13 +53,13 @@
 
 <div align="left">
   <a href="j.murilo.mobile@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="80" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="65" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-murilo-pereira-de-oliveira-4b8b8022b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="80" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="65" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/muri_krz/?next=%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="80" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="65" alt="instagram logo"  />
   </a>
 </div>
 
