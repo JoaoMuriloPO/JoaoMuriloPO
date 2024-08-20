@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2EF71D&width=435&lines=Hello%2C+my+name+is+Joao+Murilo)](https://git.io/typing-svg)
-
 ![snake gif](https://github.com/Haxh1/Haxh1/blob/output/github-user-contribution.svg)
 <br clear="both">
 
