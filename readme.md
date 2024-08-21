@@ -1,23 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45f542&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa9200&height=120&section=header"/>
 
-<div align="center"> 
+<div align="left"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3499&pause=1000&color=22F735&width=435&lines=Hello+World!!;My+name+is+joao+murilo;I'm+20+years+old;I+am+from+Brazil)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=25&duration=3499&pause=1000&color=FFFFFF&width=435&lines=Hello+world!;My+name+is+Murilo;+I'm+20+years+old;I+am+from+Brazil;+I'm+a+learning+developer)](https://git.io/typing-svg)
 </div>
 
-<br clear="both">
-
-
-###
-
-<h2 align="left">🐱‍👤Sou um dev iniciante focado em aprender. Este repositório é um espaço onde estou praticando e aprimorando minhas habilidades na programação.<br><br>🔴O Que Você Vai Encontrar Aqui:<br><br>╔Projetos de Aprendizado<br>╚Projetos desenvolvidos durante meu processo de aprendizado em HTML, CSS e JavaScript. <br>╔Código JavaScript<br>╚Scripts que adicionam funcionalidades e interatividade aos meus projetos web. <br>╔Layouts e Design<br>╚Exemplos de layouts e estilos CSS aplicados em projetos diversos.<br>╔Progresso Contínuo<br>╚Melhorias e atualizações no código à medida que vou absorvendo novos conhecimentos e práticas.<br><br>🔴Objetivos:<br><br>Aprender e aplicar novos conceitos de front-end. Melhorar a qualidade do código e a organização dos projetos. <br>Compartilhar o progresso e receber feedback construtivo.<br><br>🔴Sinta-se à vontade para explorar, comentar e contribuir. Estou sempre aberto a sugestões e dicas para melhorar!</h2>
+<p align="left">🐱‍👤Sou um dev iniciante focado em aprender. Este repositório é um espaço onde estou praticando e aprimorando minhas habilidades na programação.<br>🔴O Que Você Vai Encontrar Aqui:<br>╔Projetos de Aprendizado<br>╚Projetos desenvolvidos durante meu processo de aprendizado em HTML, CSS e JavaScript. <br>╔Código JavaScript<br>╚Scripts que adicionam funcionalidades e interatividade aos meus projetos web.<br>╔Layouts e Design<br>╚Exemplos de layouts e estilos CSS aplicados em projetos diversos.<br>╔Progresso Contínuo<br>╚Melhorias e atualizações no código à medida que vou absorvendo novos conhecimentos e práticas.<br>🔴Objetivos:<br>Aprender e aplicar novos conceitos de front-end. Melhorar a qualidade do código e a organização dos projetos. <br>Compartilhar o progresso e receber feedback construtivo.<br>🔴Sinta-se à vontade para explorar, comentar e contribuir. Estou sempre aberto a sugestões e dicas para melhorar!</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haxh1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haxh1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haxh1&theme=vision-friendly-dark&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=899&card_height=268" alt="GitHub Streak" /></a>
 </div>
 
 ###
@@ -28,7 +21,7 @@
 
 ###
 
-<h3 align="left">Main skills:</h3>
+<h2 align="left">Main Skills</h2>
 
 ###
 
@@ -40,7 +33,7 @@
 
 ###
 
-<h3 align="left">Studying in this moment:</h3>
+<h2 align="left">Studying...</h2>
 
 ###
 
@@ -54,7 +47,7 @@
 
 ###
 
-<h3 align="left">My socialMedia:</h3>
+<h2 align="left">Social Média</h2>
 
 ###
 
@@ -70,6 +63,8 @@
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45f542&height=120&section=footer"/>
+###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa9200&height=120&section=footer"/>
 
 ###
