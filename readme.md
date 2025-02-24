@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="50" alt="nodejs logo"  />
   <img width="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="angularjs logo"  />
+  <div aling="rigth">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="50" alt="JAVA logo"  />
 </div>
 
 ###
