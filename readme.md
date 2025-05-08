@@ -1,79 +1,68 @@
-<img width=100% src="https://github.com/user-attachments/assets/63156cc9-e7d5-4ba9-ad90-fbe5b288fd9c"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=04F76F&width=435&lines=<+Welcome+To+My+Repository+>;<+I+am+full-Stack+Developer+>" alt="Typing SVG" /></a>
 
-<div align="left"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=25&duration=3499&pause=1000&color=FFFFFF&width=435&lines=Hello+world!;My+name+is+Murilo;+I'm+20+years+old;I+am+from+Brazil;+I'm+a+learning+developer)](https://git.io/typing-svg)
-</div>
 
-<p align="left">🐱‍👤Sou um dev iniciante focado em aprender. Este repositório é um espaço onde estou praticando e aprimorando minhas habilidades na programação.<br>🔴O Que Você Vai Encontrar Aqui:<br>╔Projetos de Aprendizado<br>╚Projetos desenvolvidos durante meu processo de aprendizado em HTML, CSS e JavaScript. <br>╔Código JavaScript<br>╚Scripts que adicionam funcionalidades e interatividade aos meus projetos web.<br>╔Layouts e Design<br>╚Exemplos de layouts e estilos CSS aplicados em projetos diversos.<br>╔Progresso Contínuo<br>╚Melhorias e atualizações no código à medida que vou absorvendo novos conhecimentos e práticas.<br>🔴Objetivos:<br>Aprender e aplicar novos conceitos de front-end. Melhorar a qualidade do código e a organização dos projetos. <br>Compartilhar o progresso e receber feedback construtivo.<br>🌱Sinta-se à vontade para explorar, comentar e contribuir. Estou sempre aberto a sugestões e dicas para melhorar!</p>
+<img align="right" height="262" src="https://github.com/user-attachments/assets/15682b48-8296-4dac-a336-26f1e9991ed7"  />
 
 ###
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoMuriloPO%20" alt="GitHub Streak" /></a>
+<h4 align="left">Olá! Sou um desenvolvedor focado na criação de aplicações modernas e escaláveis, com experiência prática em arquitetura de software, TDD (desenvolvimento orientado a testes) e DDD (desenvolvimento orientado a domínio). Estudo desenvolvimento há cerca de um ano e, nesse tempo, venho me aprofundando principalmente no frontend — a área onde me sinto mais confortável hoje. Ainda assim, tenho uma base sólida em desenvolvimento fullstack, o que me permite atuar com segurança tanto no backend quanto no frontend, sempre que necessário.
+
+Fique à vontade para conhecer meu repositório e acompanhar de perto meus projetos!🌱</h4>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ffff&logoColor=white&labelColor=#&style=for-the-badge" height="28" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=fffff&logoColor=white&labelColor=#&style=for-the-badge" height="28" alt="gmail logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="450" src="https://i.pinimg.com/originals/4a/a3/4a/4aa34ae3ff180a52b8d512e135b95750.gif"  />
+<h4 align="center">🛠️Languages ​​and Tools🛠</h4>
 
 ###
 
-<h2 align="left">Main Skills</h2>
+<br clear="both">
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  
-</div>
-<div aling="rigth">
-<img width="2" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" height="50" alt="javascript logo"  />
-</div>
-
-  <img width="2" />
-
-###
-
-<h2 align="left">Studying...</h2>
-
-###
-
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="50" alt="nodejs logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="angularjs logo"  />
-  <div aling="rigth">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="50" alt="JAVA logo"  />
-</div>
-
-###
-
-<h2 align="left">Social Média</h2>
-
-###
-
-<div align="left">
-  <a href="j.murilo.mobile@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="65" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-murilo-pereira-de-oliveira-4b8b8022b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="65" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/muri_krz/?next=%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="65" alt="instagram logo"  />
-  </a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="41" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=ts" height="41" alt="typescript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=java" height="41" alt="java logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=py" height="41" alt="python logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=react" height="41" alt="react logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="41" alt="nextjs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=spring" height="41" alt="spring logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=angular" height="41" alt="angularjs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="41" alt="materialui logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="41" alt="postgresql logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=docker" height="41" alt="docker logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=git" height="41" alt="git logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="41" alt="nodejs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=vue" height="41" alt="vuejs logo"  />
 </div>
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa9200&height=120&section=footer"/>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joaomuriloPO&theme=vue&hide_border=true&border_radius=12.3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=000000&dates=FFFFFF&sideLabels=20FF00&ring=20FF00&fire=20FF00&currStreakNum=20FF00&currStreakLabel=20FF00&sideNums=20FF00" alt="GitHub Streak" /></a>
+</div>
 
 ###
