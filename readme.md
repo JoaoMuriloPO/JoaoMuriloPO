@@ -68,52 +68,12 @@ I have experience working in **agile environments (Scrum/Kanban)** and I’m con
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Stats
 
-### Front-End Developer Intern — CI&T  
-📍 **Mar 2025 – Dec 2025**
-
-- Development and maintenance of web applications using **ReactJS, TypeScript and Node.js**
-- Integration and consumption of **REST APIs**, especially **Kanbanize API**
-- Active participation in **dailys, plannings, reviews and demos**
-- Collaboration in projects involving **AI and internal automations**
-- Creation of reusable components and responsive interfaces
-
-### Freelance Web Developer  
-📍 **Oct 2024 – Dec 2024**
-
-- Development of login pages, portfolios, e-commerces and Discord bots
-- Use of **ReactJS, HTML, CSS, JavaScript and TypeScript**
-- Application of **UX/UI best practices** and version control with Git/GitHub
-
----
-
-## 🚀 Featured Projects
-
-- 📌 **Kanban API Integration**  
-  Integration with Kanbanize API for task management
-
-- 🌐 **Personal Portfolio**  
-  Responsive website built with ReactJS and Vite
-
-- 🤖 **Discord Bot**  
-  Automated tool for community management
-
----
-
-## 🎓 Education
-
-🎓 **Technologist in Computer Networks**  
-Instituto Federal do Rio de Janeiro (IFRJ)  
-📆 **2024 – 2027**
-
-Relevant subjects: Programming Logic, Mathematical Logic, Python, Network Structures
-
----
-
-## 🌍 Languages
-
-- 🇺🇸 English — **B1 (reading, writing and conversation)**
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoMuriloPO&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMuriloPO&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
