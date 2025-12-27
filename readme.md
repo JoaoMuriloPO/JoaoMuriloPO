@@ -1,12 +1,13 @@
 # Hi 👋, I'm João Murilo
 
-🚀 **Front-End Developer | ReactJS & Node.js**  
-🇧🇷 Rio de Janeiro – Brazil
+🚀 **Front-End Developer | ReactJS & TypeScript**  
+📍 Rio de Janeiro – Brazil
 
-I’m a **Front-End Developer** with over **2 years of experience**, including **10 months as a Web Development Intern at CI&T**.  
-I work mainly with **ReactJS, TypeScript and Node.js**, building **dynamic interfaces**, **API integrations**, and **scalable web applications**.
+I’m a **Front-End Developer** with over **2 years of practical experience**, including **10 months as a Web Development Intern at CI&T**.  
+I mainly work with **ReactJS and TypeScript**, developing **scalable, responsive interfaces** and integrating applications with **REST APIs**.
 
-I have experience working in **agile environments (Scrum/Kanban)** and I’m constantly improving my skills to become a **Full Stack Developer**, focused on clean code, performance, and real-world solutions.
+I have experience working in **agile environments (Scrum/Kanban)**, collaborating with multidisciplinary teams and focusing on **clean code, performance, and maintainable solutions**.  
+I also have experience with **Node.js** for back-end integrations and continuously improve my skills aiming to evolve towards **Full Stack development**.
 
 ---
 
@@ -28,13 +29,13 @@ I have experience working in **agile environments (Scrum/Kanban)** and I’m con
 
 ## 🧠 What I do
 
-- 🎨 Development of responsive and dynamic interfaces
-- ⚛️ Front-end applications with ReactJS & TypeScript
-- 🔗 Integration and consumption of REST APIs
-- 🧩 Reusable components and scalable solutions
-- 🤝 Collaboration in agile teams (Scrum & Kanban)
-- 🤖 Automations, bots and internal tools
-- 📚 Continuous learning focused on Full Stack development
+- 🎨 Development of responsive and scalable web interfaces  
+- ⚛️ Front-end applications using ReactJS & TypeScript  
+- 🔗 Integration and consumption of REST APIs  
+- 🧩 Creation of reusable components and well-structured solutions  
+- 🤝 Collaboration in agile teams (Scrum & Kanban)  
+- 🤖 Development of internal tools, automations and bots  
+- 📚 Continuous learning focused on front-end excellence and full stack evolution  
 
 ---
 
@@ -49,13 +50,11 @@ I have experience working in **agile environments (Scrum/Kanban)** and I’m con
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-
-### Backend
+### Backend (Support)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-
 
 ### Tools & Workflow
 
@@ -64,7 +63,6 @@ I have experience working in **agile environments (Scrum/Kanban)** and I’m con
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=azuredevops&logoColor=white)
-
 
 ---
 
@@ -79,7 +77,7 @@ I have experience working in **agile environments (Scrum/Kanban)** and I’m con
 
 ## 🚀 Goal
 
-> _"To consolidate my career as a developer, delivering efficient and scalable solutions, while evolving towards Full Stack development and high-performance projects."_
+> _"To consolidate my career as a front-end developer, delivering efficient and scalable solutions, while continuously evolving towards full stack development and high-performance projects."_
 
 ---
 
