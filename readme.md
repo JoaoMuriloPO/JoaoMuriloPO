@@ -1,17 +1,17 @@
-# Hi 👋, I'm João Murilo
+# opa 👋, eu sou João Murilo
 
-🚀 **Front-End Developer | ReactJS & TypeScript**  
-📍 Rio de Janeiro – Brazil
+🚀 **Desenvolvedor Front-End | ReactJS & TypeScript**  
+📍 Rio de Janeiro – Brasil
 
-I’m a **Front-End Developer** with over **2 years of practical experience**, including **10 months as a Web Development Intern at CI&T**.  
-I mainly work with **ReactJS and TypeScript**, developing **scalable, responsive interfaces** and integrating applications with **REST APIs**.
+Sou um **Desenvolvedor Front-End** com mais de **2 anos de experiência prática**, incluindo **10 meses como Estagiário em Desenvolvimento Web na CI&T**.  
+Atuo principalmente com **ReactJS e TypeScript**, desenvolvendo **interfaces escaláveis, responsivas** e integrando aplicações com **APIs REST**.
 
-I have experience working in **agile environments (Scrum/Kanban)**, collaborating with multidisciplinary teams and focusing on **clean code, performance, and maintainable solutions**.  
-I also have experience with **Node.js** for back-end integrations and continuously improve my skills aiming to evolve towards **Full Stack development**.
+Tenho experiência trabalhando em **ambientes ágeis (Scrum/Kanban)**, colaborando com times multidisciplinares e focando em **código limpo, performance e soluções de fácil manutenção**.  
+Também possuo experiência com **Node.js** para integrações back-end e estou em constante evolução visando me tornar **Full Stack**.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/JoaoMuriloPO">
@@ -27,19 +27,19 @@ I also have experience with **Node.js** for back-end integrations and continuous
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço
 
-- 🎨 Development of responsive and scalable web interfaces  
-- ⚛️ Front-end applications using ReactJS & TypeScript  
-- 🔗 Integration and consumption of REST APIs  
-- 🧩 Creation of reusable components and well-structured solutions  
-- 🤝 Collaboration in agile teams (Scrum & Kanban)  
-- 🤖 Development of internal tools, automations and bots  
-- 📚 Continuous learning focused on front-end excellence and full stack evolution  
+- 🎨 Desenvolvimento de interfaces web responsivas e escaláveis  
+- ⚛️ Aplicações front-end utilizando ReactJS e TypeScript  
+- 🔗 Integração e consumo de APIs REST  
+- 🧩 Criação de componentes reutilizáveis e soluções bem estruturadas  
+- 🤝 Colaboração em times ágeis (Scrum & Kanban)  
+- 🤖 Desenvolvimento de ferramentas internas, automações e bots  
+- 📚 Aprendizado contínuo focado em excelência no front-end e evolução para full stack  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Frontend
 
@@ -50,13 +50,13 @@ I also have experience with **Node.js** for back-end integrations and continuous
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend (Support)
+### Backend (Suporte)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Tools & Workflow
+### Ferramentas & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -66,7 +66,7 @@ I also have experience with **Node.js** for back-end integrations and continuous
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoMuriloPO&show_icons=true&theme=tokyonight&count_private=true" />
@@ -75,11 +75,11 @@ I also have experience with **Node.js** for back-end integrations and continuous
 
 ---
 
-## 🚀 Goal
+## 🚀 Objetivo
 
-> _"To consolidate my career as a front-end developer, delivering efficient and scalable solutions, while continuously evolving towards full stack development and high-performance projects."_
+> _"Consolidar minha carreira como desenvolvedor front-end, entregando soluções eficientes e escaláveis, enquanto evoluo continuamente para full stack e projetos de alta performance."_
 
 ---
 
-⭐ Feel free to explore my repositories  
-🤝 Open to opportunities, collaborations and new challenges
+⭐ Fique à vontade para explorar meus repositórios  
+🤝 Aberto a oportunidades, colaborações e novos desafios  
