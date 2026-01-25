@@ -1,4 +1,4 @@
-# opa 👋, eu sou João Murilo
+# Olá 👋, eu sou João Murilo
 
 🚀 **Desenvolvedor Front-End | ReactJS & TypeScript**  
 📍 Rio de Janeiro – Brasil
