@@ -12,18 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaomurilopoo/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
-  <a href="https://portfolio-pessoal-joao-murilo.vercel.app" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" />
-  </a>
-  <a href="mailto:j.murilo.mobile@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
-  </a>
-  <a href="https://github.com/JoaoMuriloPO" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=61DAFB" />
-  </a>
+  <a href="https://www.linkedin.com/in/joaomurilopoo/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-pessoal-joao-murilo.vercel.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfólio-00A8E8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:j.murilo.mobile@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/JoaoMuriloPO" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -46,32 +38,31 @@
   <li><b>Local:</b> Rio de Janeiro, Brasil — <b>Disponível para trabalho Remoto, Híbrido ou Presencial.</b></li>
 </ul>
 
-<pre>
+```javascript
 const joaoMurilo = {
-  cargo: "Frontend Developer | ReactJS Engineer",
-  local: "Rio de Janeiro, Brasil",
-  foco: [
-    "ReactJS & TypeScript (Arquitetura de Interfaces)",
-    "Consumo de APIs REST (Tratamento e Validação de dados)",
-    "Metodologias Ágeis (Scrum & Kanban em Squads)",
-    "Desenvolvimento de Bots e Automações com Node.js"
-  ],
-  objetivo:
-    "Construir interfaces elegantes e robustas que resolvam problemas reais, unindo tecnologia de ponta à melhor experiência de uso."
+  pronouns: "He | Him",
+  role: "web developer",
+  specialties: ["React.js", "TypeScript", "Design Systems"],
+  location: "Rio de Janeiro, BR",
+  current_focus: {
+    tech: "Scalable Architectures & Web Performance",
+    learning: "Node.js (Fullstack Evolution)"
+  },
+  challenge: "Transformar requisitos complexos em interfaces elegantes e de alta performance."
 };
-</pre>
+```
+
 
 <hr/>
 
 <h2>📊 Visão geral do GitHub</h2>
 
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoMuriloPO&show_icons=true&hide_border=true&theme=tokyonight&icon_color=61DAFB" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMuriloPO&layout=compact&hide_border=true&theme=tokyonight" />
-</p> -->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoMuriloPO&bg_color=0B1220&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" />
+</p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=JoaoMuriloPO&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=JoaoMuriloPO&theme=tokyonight&hide_border=true" />
 </p>
 
 <hr/>
@@ -202,19 +193,13 @@ Disponibilidade: Imediata
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaomurilopoo/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jornada%20Profissional-0B1220?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
-  <a href="https://github.com/JoaoMuriloPO" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=61DAFB" />
-  </a>
-  <a href="https://portfolio-pessoal-joao-murilo.vercel.app" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Showcase%20Interativo-0B1220?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" />
-  </a>
+  <a href="https://www.linkedin.com/in/joaomurilopoo/" target="_blank" rel="noreferrer" title="Minha trajetória e conexões profissionais"><img src="https://img.shields.io/badge/Jornada%20Profissional-0B1220?style=for-the-badge&logo=linkedin&logoColor=61DAFB" /></a>
+  <a href="https://github.com/JoaoMuriloPO" target="_blank" rel="noreferrer" title="Explore meus repositórios e projetos abertos"><img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>
+  <a href="https://portfolio-pessoal-joao-murilo.vercel.app" target="_blank" rel="noreferrer" title="Veja meu showcase interativo e experiências UX"><img src="https://img.shields.io/badge/Showcase%20Interativo-0B1220?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" /></a>
 </p>
 
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:j.murilo.mobile@gmail.com">j.murilo.mobile@gmail.com</a><br>
+  📧 <b>Email:</b> <a href="mailto:j.murilo.mobile@gmail.com" target="_blank" rel="noreferrer">j.murilo.mobile@gmail.com</a><br>
   🌍 <b>Baseado no Rio de Janeiro, disponível para o mundo.</b>
 </p>
 
