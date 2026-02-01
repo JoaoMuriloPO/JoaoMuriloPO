@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=61DAFB&center=true&vCenter=true&width=900&lines=Transformando+ideias+em+interfaces+modernas+e+escaláveis;Foco+em+React,+TypeScript+e+qualidade+de+código;Experiência+real+em+produtos+de+impacto+e+Squads+Ágeis."
+   <img
+    src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=18&duration=2600&pause=800&color=61DAFB&center=true&vCenter=true&width=900&lines=Transformando+ideias+em+interfaces+modernas+e+escal%C3%A1veis;Foco+em+React,+TypeScript+e+qualidade+de+c%C3%B3digo;Experi%C3%AAncia+real+em+produtos+de+impacto+e+Squads+%C3%81geis."
     alt="Texto animado"
   />
 </p>
