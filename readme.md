@@ -1,85 +1,225 @@
-# Olá 👋, eu sou João Murilo
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=João%20Murilo&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Frontend%20Developer%20%7C%20ReactJS%20Engineer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:000000,100:61DAFB"
+  />
+</p>
 
-🚀 **Desenvolvedor Front-End | ReactJS & TypeScript**  
-📍 Rio de Janeiro – Brasil
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=61DAFB&center=true&vCenter=true&width=900&lines=Transformando+ideias+em+interfaces+modernas+e+escaláveis;Foco+em+React,+TypeScript+e+qualidade+de+código;Experiência+real+em+produtos+de+impacto+e+Squads+Ágeis."
+    alt="Texto animado"
+  />
+</p>
 
-Sou um **Desenvolvedor Front-End** com mais de **2 anos de experiência prática**, incluindo **10 meses como Estagiário em Desenvolvimento Web na CI&T**.  
-Atuo principalmente com **ReactJS e TypeScript**, desenvolvendo **interfaces escaláveis, responsivas** e integrando aplicações com **APIs REST**.
-
-Tenho experiência trabalhando em **ambientes ágeis (Scrum/Kanban)**, colaborando com times multidisciplinares e focando em **código limpo, performance e soluções de fácil manutenção**.  
-Também possuo experiência com **Node.js** para integrações back-end e estou em constante evolução visando me tornar **Full Stack**.
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/JoaoMuriloPO">
-    <img src="https://img.shields.io/badge/GitHub-JoaoMuriloPO-181717?style=for-the-badge&logo=github" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaomurilopoo/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.linkedin.com/in/joaomurilopoo/">
-    <img src="https://img.shields.io/badge/LinkedIn-JOAO%20MURILO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://portfolio-pessoal-joao-murilo.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" />
   </a>
-  <a href="mailto:j.murilo.mobile@gmail.com">
-    <img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:j.murilo.mobile@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://github.com/JoaoMuriloPO" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=61DAFB" />
   </a>
 </p>
 
----
-
-## 🧠 O que eu faço
-
-- 🎨 Desenvolvimento de interfaces web responsivas e escaláveis  
-- ⚛️ Aplicações front-end utilizando ReactJS e TypeScript  
-- 🔗 Integração e consumo de APIs REST  
-- 🧩 Criação de componentes reutilizáveis e soluções bem estruturadas  
-- 🤝 Colaboração em times ágeis (Scrum & Kanban)  
-- 🤖 Desenvolvimento de ferramentas internas, automações e bots  
-- 📚 Aprendizado contínuo focado em excelência no front-end e evolução para full stack  
-
----
-
-## 🛠️ Tecnologias
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend (Suporte)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-
-### Ferramentas & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=azuredevops&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoMuriloPO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMuriloPO&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoMuriloPO&label=Profile%20Views&color=61DAFB" />
+  <img src="https://img.shields.io/github/followers/JoaoMuriloPO?label=Followers&color=0B1220" />
+  <img src="https://img.shields.io/github/stars/JoaoMuriloPO?label=Stars&color=0B1220" />
 </p>
 
----
+<hr/>
 
-## 🚀 Objetivo
+<h2>🧠 Sobre mim</h2>
 
-> _"Consolidar minha carreira como desenvolvedor front-end, entregando soluções eficientes e escaláveis, enquanto evoluo continuamente para full stack e projetos de alta performance."_
+<ul>
+  <li><b>Atuação:</b> Desenvolvedor Front-End especializado em <b>ReactJS</b> e <b>TypeScript</b> com +2 anos de experiência.</li>
+  <li><b>Perfil:</b> Expertise em levar produtos do <b>MVP à produção</b>, com foco em arquitetura de componentes escaláveis.</li>
+  <li><b>Especialidades:</b> Integração de APIs complexas (Kanbanize), Design Systems, Performance e Clean Code.</li>
+  <li><b>Experiência Corporativa:</b> Atuação na <b>CI&T</b> em ambiente de alta colaboração técnica e rituais ágeis.</li>
+  <li><b>Frontend:</b> Desenvolvimento focado em UX/UI, responsividade e manutenibilidade (TSX/JSX).</li>
+  <li><b>Backend & Suporte:</b> Conhecimentos em Node.js para criação de integrações e tratamentos de dados eficientes.</li>
+  <li><b>Local:</b> Rio de Janeiro, Brasil — <b>Disponível para trabalho Remoto, Híbrido ou Presencial.</b></li>
+</ul>
 
----
+<pre>
+const joaoMurilo = {
+  cargo: "Frontend Developer | ReactJS Engineer",
+  local: "Rio de Janeiro, Brasil",
+  foco: [
+    "ReactJS & TypeScript (Arquitetura de Interfaces)",
+    "Consumo de APIs REST (Tratamento e Validação de dados)",
+    "Metodologias Ágeis (Scrum & Kanban em Squads)",
+    "Desenvolvimento de Bots e Automações com Node.js"
+  ],
+  objetivo:
+    "Construir interfaces elegantes e robustas que resolvam problemas reais, unindo tecnologia de ponta à melhor experiência de uso."
+};
+</pre>
 
-⭐ Fique à vontade para explorar meus repositórios  
-🤝 Aberto a oportunidades, colaborações e novos desafios  
+<hr/>
+
+<h2>📊 Visão geral do GitHub</h2>
+
+<!-- <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoMuriloPO&show_icons=true&hide_border=true&theme=tokyonight&icon_color=61DAFB" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMuriloPO&layout=compact&hide_border=true&theme=tokyonight" />
+</p> -->
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=JoaoMuriloPO&theme=tokyonight&hide_border=true" />
+</p>
+
+<hr/>
+
+<h2>🧩 Stack tecnológica</h2>
+
+<div align="center">
+  <h4>💻 Linguagens & Core</h4>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
+
+  <h4>⚛️ Frontend Frameworks & UI</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,sass" />
+
+  <h4>🧱 Backend & Integrações</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
+
+  <h4>☁️ DevOps, Ferramentas & Workflow</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,discordjs" />
+</div>
+
+<hr/>
+
+<h2>📊 Distribuição de Expertise</h2>
+
+<table>
+  <tr>
+    <th align="left">Área de Atuação</th>
+    <th align="center">Proficiência</th>
+    <th align="left">Destaque Principal</th>
+  </tr>
+  <tr>
+    <td><b>Desenvolvimento Frontend</b></td>
+    <td align="center"><b>95%</b></td>
+    <td>Componentização escalável, Hooks, Context API e Performance</td>
+  </tr>
+  <tr>
+    <td><b>Integração de APIs</b></td>
+    <td align="center"><b>92%</b></td>
+    <td>Sincronização de dados, tratamento de erros e validação (CI&T Exp)</td>
+  </tr>
+  <tr>
+    <td><b>UI/UX & Responsividade</b></td>
+    <td align="center"><b>90%</b></td>
+    <td>Fidelidade ao design (Pixel Perfect) e acessibilidade básica</td>
+  </tr>
+  <tr>
+    <td><b>Metodologias Ágeis</b></td>
+    <td align="center"><b>88%</b></td>
+    <td>Participação ativa em rituais: Dailies, Planning e Refinements</td>
+  </tr>
+  <tr>
+    <td><b>Automação & Bots</b></td>
+    <td align="center"><b>75%</b></td>
+    <td>Desenvolvimento de ferramentas internas e automação de processos</td>
+  </tr>
+  <tr>
+    <td><b>Backend (Node.js)</b></td>
+    <td align="center"><b>70%</b></td>
+    <td>Middlewares, rotas REST e lógica de negócio no servidor</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>✨ Meus Diferenciais</h2>
+
+<table>
+  <tr>
+    <th align="left">Característica</th>
+    <th align="left">Aplicação Prática</th>
+  </tr>
+  <tr>
+    <td><b>Foco em MVP</b></td>
+    <td>Capacidade de entregar soluções funcionais em prazos curtos (PoC para Produto)</td>
+  </tr>
+  <tr>
+    <td><b>Mentalidade de Dono</b></td>
+    <td>Comprometimento com o sucesso do negócio, não apenas com a tarefa técnica</td>
+  </tr>
+  <tr>
+    <td><b>Código Limpo (Clean Code)</b></td>
+    <td>Prioridade em código legível e documentado para fácil manutenção em time</td>
+  </tr>
+  <tr>
+    <td><b>Colaboração em Squad</b></td>
+    <td>Experiência em trabalhar lado a lado com designers e stakeholders técnicos</td>
+  </tr>
+  <tr>
+    <td><b>Curva de Aprendizado</b></td>
+    <td>Rápida adaptação a novas ferramentas e requisitos de negócio complexos</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>📈 Atividade & gráficos</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoMuriloPO&bg_color=0B1220&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true"
+    alt="Gráfico de atividade"
+  />
+</p>
+
+<hr/>
+
+<h2>🌍 Aberto a oportunidades</h2>
+
+<pre>
+Cargos de interesse:
+- Desenvolvedor Frontend (ReactJS / TypeScript)
+- Desenvolvedor Web Junior/Pleno
+- Desenvolvedor Full Stack Node.js
+
+Modelos:
+- Remoto (Global/Brasil)
+- Híbrido / Presencial (Rio de Janeiro - RJ)
+
+Disponibilidade: Imediata
+</pre>
+
+<hr/>
+
+<h2>💬✨ Vamos nos conectar</h2>
+
+<p align="center">
+  Acompanhe minha jornada e conheça meus projetos em detalhes:
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaomurilopoo/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-0B1220?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="https://github.com/JoaoMuriloPO" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=61DAFB" />
+  </a>
+  <a href="https://portfolio-pessoal-joao-murilo.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Showcase%20Interativo-0B1220?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:j.murilo.mobile@gmail.com">j.murilo.mobile@gmail.com</a><br>
+  🌍 <b>Baseado no Rio de Janeiro, disponível para o mundo.</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Keep%20Coding%20%7C%20Keep%20Building&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:000000,100:61DAFB"
+  />
+</p>
