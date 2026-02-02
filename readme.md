@@ -58,10 +58,6 @@ const joaoMurilo = {
 <h2>📊 Visão geral do GitHub</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoMuriloPO&bg_color=0B1220&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
-<p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=JoaoMuriloPO&theme=tokyonight&hide_border=true" />
 </p>
 
