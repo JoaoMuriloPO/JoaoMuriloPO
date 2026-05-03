@@ -29,26 +29,28 @@
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-  <li><b>Atuação:</b> Desenvolvedor Front-End especializado em <b>ReactJS</b> e <b>TypeScript</b> com +2 anos de experiência.</li>
-  <li><b>Perfil:</b> Expertise em levar produtos do <b>MVP à produção</b>, com foco em arquitetura de componentes escaláveis.</li>
-  <li><b>Especialidades:</b> Integração de APIs complexas (Kanbanize), Design Systems, Performance e Clean Code.</li>
-  <li><b>Experiência Corporativa:</b> Atuação na <b>CI&T</b> em ambiente de alta colaboração técnica e rituais ágeis.</li>
-  <li><b>Frontend:</b> Desenvolvimento focado em UX/UI, responsividade e manutenibilidade (TSX/JSX).</li>
-  <li><b>Backend & Suporte:</b> Conhecimentos em Node.js para criação de integrações e tratamentos de dados eficientes.</li>
-  <li><b>Local:</b> Rio de Janeiro, Brasil — <b>Disponível para trabalho Remoto, Híbrido ou Presencial.</b></li>
+  <li><b>Atuação:</b> Software Engineer com foco em <b>Frontend e Qualidade de Software (QA)</b>.</li>
+  <li><b>Especialidade:</b> Construção de aplicações com <b>ReactJS + TypeScript</b> aliadas a <b>testes automatizados (Cypress / Robot)</b>.</li>
+  <li><b>Diferencial:</b> Desenvolvimento orientado à <b>qualidade, confiabilidade e experiência do usuário</b>.</li>
+  <li><b>Experiência:</b> Atuação na <b>CI&T</b> construindo produto real do zero (MVP → produção).</li>
+  <li><b>QA & Automação:</b> Testes E2E, APIs, BDD (Cucumber), testes exploratórios e pipelines CI/CD.</li>
+  <li><b>Visão:</b> Garantir software escalável, testável e pronto para produção.</li>
+  <li><b>Local:</b> Brasil — <b>Disponível para remoto</b>.</li>
 </ul>
 
 ```javascript
 const joaoMurilo = {
-  pronouns: "He | Him",
-  role: "web developer",
-  specialties: ["React.js", "TypeScript", "Design Systems"],
-  location: "Rio de Janeiro, BR",
-  current_focus: {
-    tech: "Scalable Architectures & Web Performance",
-    learning: "Node.js (Fullstack Evolution)"
-  },
-  challenge: "Transformar requisitos complexos em interfaces elegantes e de alta performance."
+  role: "Software Engineer (Frontend + QA)",
+  stack: ["React.js", "TypeScript", "Node.js"],
+  qa: ["Cypress", "Robot Framework", "BDD", "Test Automation"],
+  focus: [
+    "Scalable Frontend Architecture",
+    "Test Automation",
+    "Software Quality",
+    "CI/CD Pipelines"
+  ],
+  mindset: "Quality-first development",
+  challenge: "Construir software confiável, testável e escalável desde o início."
 };
 ```
 
@@ -72,12 +74,27 @@ const joaoMurilo = {
   <h4>⚛️ Frontend Frameworks & UI</h4>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,sass" />
 
+  <h4>🧪 Qualidade & Testes</h4>
+  <img src="https://skillicons.dev/icons?i=cypress" />
+
   <h4>🧱 Backend & Integrações</h4>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
 
   <h4>☁️ DevOps, Ferramentas & Workflow</h4>
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,discordjs" />
 </div>
+<hr/>
+
+<h2>🧪 QA & Automação na prática</h2>
+
+<ul>
+  <li>✔️ Testes E2E com Cypress</li>
+  <li>✔️ Automação Web e APIs com Robot Framework</li>
+  <li>✔️ Escrita de cenários BDD (Cucumber / Gherkin)</li>
+  <li>✔️ Testes manuais exploratórios e funcionais</li>
+  <li>✔️ Integração com pipelines CI/CD</li>
+  <li>✔️ Validação de APIs com Postman</li>
+</ul>
 
 <hr/>
 
@@ -91,33 +108,33 @@ const joaoMurilo = {
   </tr>
   <tr>
     <td><b>Desenvolvimento Frontend</b></td>
-    <td align="center"><b>95%</b></td>
-    <td>Componentização escalável, Hooks, Context API e Performance</td>
+    <td align="center"><b>90%</b></td>
+    <td>Componentização escalável, Hooks, Context API, performance e UX</td>
+  </tr>
+  <tr>
+    <td><b>QA &amp; Automação</b></td>
+    <td align="center"><b>85%</b></td>
+    <td>Testes E2E (Cypress), APIs, BDD e garantia de qualidade ponta a ponta</td>
   </tr>
   <tr>
     <td><b>Integração de APIs</b></td>
-    <td align="center"><b>92%</b></td>
-    <td>Sincronização de dados, tratamento de erros e validação (CI&T Exp)</td>
+    <td align="center"><b>90%</b></td>
+    <td>Consumo, validação e tratamento de dados de APIs REST</td>
   </tr>
   <tr>
-    <td><b>UI/UX & Responsividade</b></td>
+    <td><b>UI/UX &amp; Responsividade</b></td>
     <td align="center"><b>90%</b></td>
-    <td>Fidelidade ao design (Pixel Perfect) e acessibilidade básica</td>
+    <td>Interfaces responsivas, acessibilidade e fidelidade ao design</td>
   </tr>
   <tr>
     <td><b>Metodologias Ágeis</b></td>
     <td align="center"><b>88%</b></td>
-    <td>Participação ativa em rituais: Dailies, Planning e Refinements</td>
-  </tr>
-  <tr>
-    <td><b>Automação & Bots</b></td>
-    <td align="center"><b>75%</b></td>
-    <td>Desenvolvimento de ferramentas internas e automação de processos</td>
+    <td>Atuação em Scrum/Kanban com foco em entrega contínua</td>
   </tr>
   <tr>
     <td><b>Backend (Node.js)</b></td>
     <td align="center"><b>70%</b></td>
-    <td>Middlewares, rotas REST e lógica de negócio no servidor</td>
+    <td>APIs REST, middlewares e regras de negócio</td>
   </tr>
 </table>
 
@@ -150,6 +167,11 @@ const joaoMurilo = {
     <td><b>Curva de Aprendizado</b></td>
     <td>Rápida adaptação a novas ferramentas e requisitos de negócio complexos</td>
   </tr>
+  <tr>
+    <td><b>Qualidade desde o início</b></td>
+    <td>Desenvolvimento já pensando em testes, automação e estabilidade do sistema</td>
+  </tr>
+  
 </table>
 
 <hr/>
