@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=João%20Murilo&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Frontend%20Developer%20%7C%20ReactJS%20Engineer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:000000,100:61DAFB"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,50:000000,100:61DAFB&text=João%20Murilo&section=header&fontColor=FFFFFF&fontSize=56&fontAlignY=35&desc=Software%20Engineer%20|%20Frontend%20&%20QA%20Automation&descAlignY=55"
   />
 </p>
 
@@ -191,13 +191,12 @@ const joaoMurilo = {
 
 <pre>
 Cargos de interesse:
+- Software Engineer (Frontend + QA)
+- QA Engineer / SDET
 - Desenvolvedor Frontend (ReactJS / TypeScript)
-- Desenvolvedor Web Junior/Pleno
-- Desenvolvedor Full Stack Node.js
 
 Modelos:
 - Remoto (Global/Brasil)
-- Híbrido / Presencial (Rio de Janeiro - RJ)
 
 Disponibilidade: Imediata
 </pre>
@@ -218,7 +217,7 @@ Disponibilidade: Imediata
 
 <p align="center">
   📧 <b>Email:</b> <a href="mailto:j.murilo.mobile@gmail.com" target="_blank" rel="noreferrer">j.murilo.mobile@gmail.com</a><br>
-  🌍 <b>Baseado no Rio de Janeiro, disponível para o mundo.</b>
+  🌍 <b>Baseado no Brasil, disponível para o mundo.</b>
 </p>
 
 <p align="center">
